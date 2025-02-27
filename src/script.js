@@ -4,7 +4,7 @@ function calcularIdade(){
     let idade = 2025 - anoDigitado;
     console.log(idade);
     document.getElementById("resultado").innerHTML =
-    `Idade é ${idade}`;
+    `Sua idade é ${idade}`;
 }
 
 // Novas implementações
